@@ -1,0 +1,8 @@
+#theoriq AI配置
+theoriq:
+  discord_token: ''
+  twitter_token: ''
+  invite_code: ''
+  private_key: ''
+
+
